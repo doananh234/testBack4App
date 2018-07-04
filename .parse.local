@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "Myether": {
+      "applicationId": "A977v9EqBdQxs1VBVj0DcgDGxwP6mXNz0drhC76f"
+    },
+    "_default": {
+      "link": "Myether"
+    }
+  }
+}
